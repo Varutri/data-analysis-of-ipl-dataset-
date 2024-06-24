@@ -1,1 +1,3 @@
 # data-analysis-of-ipl-dataset-
+
+I have performed a comprehensive analysis of IPL data, which includes an overview of the total number of matches played, the percentage and sum of no balls per season, identification of the most popular stadiums for matches, average runs per season, and profiling of the top umpires. My team profile analysis details the top scorers and wicket-takers per season, the number of matches won by a selected team per season, the grounds where the team won, and the boundaries, runs, and wickets scored by the team in specific seasons and overs. Additionally, my player profile analysis covers the strike rates of batsmen and bowlers for the selected season, as well as the top 5 run-scorers and top 5 wicket-takers for the selected season.
